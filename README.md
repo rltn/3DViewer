@@ -18,7 +18,6 @@ A simple 3D model visualizer built with Qt6 and OpenGL.
 - [Testing](#testing)
 - [Code Quality](#code-quality)
 - [Memory Leaks](#memory-leaks)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
